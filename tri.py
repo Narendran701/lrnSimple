@@ -1,0 +1,1 @@
+for tmp in range(10):print("*"*tmp)
